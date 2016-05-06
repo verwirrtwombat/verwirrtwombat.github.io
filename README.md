@@ -1,2 +1,2 @@
 # Chris-Personal-Website
-An initial test repo for A100 Apprentices to use to practice on.
+This is a repository that holds my resume.
